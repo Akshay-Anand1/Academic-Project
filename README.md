@@ -64,7 +64,7 @@ This project brings together data science, engineering, and product design to bu
 
 ## Team
 
-### Vibhu — ML & Computer Vision Engineer
+### Vibhu Bhardwaj - ML & Computer Vision Engineer
 - Dataset sourcing and preprocessing
 - Feature engineering
 - XGBoost / LightGBM model development
@@ -73,7 +73,7 @@ This project brings together data science, engineering, and product design to bu
 - Computer vision and video analysis
 - Model packaging and inference
 
-### Mohak — Backend, Security & MLOps Engineer
+### Mohak Gautam - Backend, Security & MLOps Engineer
 - FastAPI backend development
 - REST API architecture
 - Authentication and authorization
